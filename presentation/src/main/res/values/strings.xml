@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cat News</string>
+    <string name="check_internet">Check the Internet Connection!</string>
+</resources>
